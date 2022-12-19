@@ -12,4 +12,18 @@
     justify-content: flex-end;
     flex-wrap: wrap;
     position: relative;
+  }* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .hero{
+    height: 400px;
+    background-image: url("https://github.com/cnagridge/Module-2-Challenge/blob/main/assets/images/02-hero-bg.jpg?raw=true");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    position: relative;
   }
